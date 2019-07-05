@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
 
     private int contador;
     TextView textoResultado;
+    //cristian
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
